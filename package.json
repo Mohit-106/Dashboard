@@ -1,6 +1,9 @@
 {
   "name": "travl",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.13.1"
+  },
   "homepage": "https://travl.dexignzone.com/react/demo",
   "private": true,
   "dependencies": {
